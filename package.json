@@ -1,0 +1,20 @@
+{
+  "name": "stray-dict",
+  "version": "1.0.0",
+  "description": "stray dictionary functions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/stray-dict.git"
+  },
+  "keywords": [
+    "stray",
+    "dict"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathan7/stray-dict/issues"
+  },
+  "homepage": "https://github.com/nathan7/stray-dict"
+}
